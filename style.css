@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 239.4px;
+    background-image: url('https://www.chctindia.in/sitepad-data/uploads//2022/05/short-banner-img.jpg');
+    width: 100%;
+}
